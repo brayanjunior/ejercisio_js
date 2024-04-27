@@ -1,0 +1,6 @@
+let a = 10;
+let b = 40;
+let c = 60;
+let d = 25;
+
+console.log.sum(a+b+c+d);
